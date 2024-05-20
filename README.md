@@ -7,7 +7,7 @@ Tinify API support with Laravel.
 ```json
 {
   "require": {
-    "jargoud/tinify-laravel": "^2.0"
+    "jargoud/tinify-laravel": "^3.0"
   },
   "repositories": [
     {
